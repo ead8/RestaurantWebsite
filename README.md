@@ -8,8 +8,6 @@ All you need is Visual Studio Code installed on your system for this extension t
 
 The extension also supports other variations of VS Code such as VSCodium and Cursor. You can change which application the extension opens via the options page.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1K06VY)
-
 ## Download
 
 ### Chrome, Vivaldi, Brave, Opera and Arc
